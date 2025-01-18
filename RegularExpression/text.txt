@@ -1,0 +1,11 @@
+sandeep@...
+http://xyz.com
+https://xyz.com
+
+gradient descent
+embeddings USE universal sentence encoding
+install ollama
+Pick any other model from huggingface
+celeb lookalike - face model should not load everytime, increase performace using milvus
+                - get data from linkedin 18th jan 2025 class
+                
